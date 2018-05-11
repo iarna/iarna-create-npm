@@ -1,6 +1,6 @@
 {
   "name": "@iarna/create-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Init the current project using @iarna's npm defaults.",
   "author": {
     "name": "Rebecca Turner",

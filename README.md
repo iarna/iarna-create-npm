@@ -1,4 +1,4 @@
-# @iarna/create
+# @iarna/create-npm
 
 Init the current project using @iarna's npm defaults.
 

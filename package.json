@@ -36,6 +36,6 @@
   "bugs": "https://github.com/iarna/iarna-create-npm/issues",
   "homepage": "https://npmjs.com/package/iarna-create-npm",
   "dependencies": {
-    "@iarna/create": "^1.1.1"
+    "@iarna/create": "^1.1.2"
   }
 }
